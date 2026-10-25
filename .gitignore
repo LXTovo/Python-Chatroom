@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm 配置
+.idea/
+
+# 打包生成的文件 (不要传编译后的exe)
+build/
+dist/
+*.spec
+
+# 数据库文件 (建议传空数据库或建表脚本，不传带有测试数据的库)
+*.db
+*.sqlite
+chatroom
